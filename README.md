@@ -16,10 +16,11 @@ to withdraw money,deposit.
 4.Save the diagram successfully.
 
 5.Execute it.
+
 ### UML DIAGRAMS:
 
 ### USECASE DIAGRAM:
-![image](https://github.com/Niroshassithanathan/LAB-1-ATM/assets/121418437/05c9f3ed-044b-4236-a3f9-8389a4e9cd71)
+![WhatsApp Image 2024-04-27 at 21 52 23_b27087d8](https://github.com/Jeecikasrina23013947/LAB-1-ATM/assets/148515300/b6980217-6dbe-4db7-8079-5d2c13cca3bf)
 
 ### SEQUENCE DIAGRAM:
 ![image](https://github.com/Niroshassithanathan/LAB-1-ATM/assets/121418437/6ae1b493-e349-4931-b6b8-0131f6ac258a)
